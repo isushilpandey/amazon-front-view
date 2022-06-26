@@ -116,3 +116,9 @@ nav{
     background-color: #04AA6D;
     color: white;
   }
+
+  .topnav a.split{
+    float: right;
+    background-color: blueviolet;
+    color: white;
+  }
