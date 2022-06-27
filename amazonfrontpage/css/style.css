@@ -119,13 +119,13 @@ nav{
 
   .topnav a.split{
     float: right;
-    background-color: blueviolet;
+    background-color: #04AA6D;
     color: white;
   }
 
 
   .dropbtn {
-    background-color: #04AA6D;
+    background-color: #0c17e5;
     color: white;
     padding: 16px;
     font-size: 16px;
